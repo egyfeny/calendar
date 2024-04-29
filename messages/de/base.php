@@ -78,7 +78,7 @@ return array (
   'You cannot invite participants!' => 'Du kannst keine Teilnehmer einladen!',
   'You don\'t have permission to delete this event!' => 'Du hast nicht die Berechtigung diesen Termin zu löschen!',
   'canceled' => 'abgesagt',
-  'disabled' => 'behindert',
+  'disabled' => 'deaktiviert',
   'global' => '',
   '{displayName} Birthday' => '{displayName} Geburtstag',
   '{displayName} just added you to event "{contentTitle}" in space {spaceName} starting at {time}.' => '{displayName} hat dich gerade zu Termin "{contentTitle}" beginnend {time} in Space {spaceName} hinzugefügt.',
